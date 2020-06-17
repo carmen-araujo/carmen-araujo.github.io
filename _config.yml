@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Amanda Stent
+name: Carmen Araujo
 
 # Short bio or description (displayed in the header)
 description: Summer 2020 DREU Project
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://t4.ftcdn.net/jpg/03/26/84/45/240_F_326844596_qcjuFYROVbNnS4uuQO1MulEJdjK93RFj.jpg
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: amanda.stent@mail.com
+  email: sabrinaa@bu.com
   facebook:
   flickr:
   rss: # just type anything here for a working RSS icon
