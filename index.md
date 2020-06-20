@@ -6,13 +6,17 @@ title: Summer 2020 DREU Project Site
 * TOC
 {:toc}
 
+----
+
 ## About Me
 
   **Carmen Araujo**
+  
+  https://carmen-araujo.github.io/images/CA_logo.jpg
 
   I'm a senior at Boston University majoring in Neuroscience and minoring in Computer Science, so I'm part of both the Neuroscience department and the Computer Science department.
 
-  email: sabrinaa@bu.edu
+  _email: sabrinaa "at" bu "dot" edu_
 
 ## About My Mentor
 
