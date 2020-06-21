@@ -12,7 +12,7 @@ title: Summer 2020 DREU Project Site
 
   **Carmen Araujo**
   
-  ![an image alt text](https://carmen-araujo.github.io/images/Profile2.jpg "an image title")
+  ![an image alt text](https://carmen-araujo.github.io/images/Profile2.jpg =250x250)
 
   I'm a senior at Boston University majoring in Neuroscience and minoring in Computer Science, so I'm part of both the Neuroscience department and the Computer Science department.
 
