@@ -1,0 +1,10 @@
+---
+layout: post
+title: Week 4
+---
+
+This week, I continued my work on the implemented toolbox for analyzing the brain data. I learned a few Matlab features that allow me to find the code for functions of the toolbox, which is very helpful. So far, I discussed by email on how to find the optimum number of clusters for the model. We considered a method suggested in the toolbox, Bayesian Information Criterion, and the elbow method. 
+I have mostly been involved with understand the tools in the toolbox to analyze the results in order to extract features out of the trained model. The end is to decipher and quantify the behavior of each state. The results so far seem reasonable, which could imply that the pipeline is working properly. Now I will be working on better understand the research behind this current project and tentatively go on to compare the behavior of the states across different conditions.
+
+Aside from that, I came back to Oakland, California and went to a hike at the Redwood Regional Park. It is a lovely place and I believe it important to get out of the city/suburbs and convene with nature, especially if you are on your computer all day working.
+
