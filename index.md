@@ -28,7 +28,7 @@ title: Summer 2020 DREU Project Site
 
 **My research project is concerned with working on Hidden Markov models for analyzing ECOG data.**
 
-The big goal is to implement a pipeline in MATLAB able to extract brain states form existing FC dynamics. Functional Connectivity (FC) is defined as temporal dependence of brain signals between pairs of distinct brain areas, while FC dynamics relate to changes in FC over time. Studies have reported that FC dynamics are made up of a mixture of several hidden components. In this project, the intention is to use the Hidden Markov Model method to disentangle FC dynamics into several perpendicular brain state dynamics.
+The big goal is to implement a pipeline in MATLAB able to extract brain states from existing FC dynamics. Functional Connectivity (FC) is defined as temporal dependence of brain signals between pairs of distinct brain areas, while FC dynamics relate to changes in FC over time. Studies have reported that FC dynamics are made up of a mixture of several hidden components. In this project, the intention is to use the Hidden Markov Model method to disentangle FC dynamics into several perpendicular brain state dynamics.
 
 _This project entails:_
 
