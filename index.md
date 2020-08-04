@@ -42,7 +42,7 @@ _This project entails:_
   4. Visualizing said results and interpreting them
   5. Statistically analyzing the results
 
-[My Final Report](files/finalreport.pdf)
+[My Final Report](https://www.youtube.com/watch?v=rmkTJ5zH_L4&t=10s)
 
 ## My Blog
 
